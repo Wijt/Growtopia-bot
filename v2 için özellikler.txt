@@ -1,0 +1,3 @@
+tıklama koordinatlarına rasgele + - değerler ekleme
+bekleyip sağa sola hareket etme
+görsel arayüz
